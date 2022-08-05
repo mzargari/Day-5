@@ -16,3 +16,9 @@ ale == "peru"
 ```
 
 Does turmeric have a taste?
+
+```{r}
+5>1
+```
+
+Are you comfortable with Git?
