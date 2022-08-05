@@ -9,3 +9,10 @@ editor: visual
 Almost done with EDS 212!
 
 Are you from Peru?
+
+```{r}
+ale <- c("peru")
+ale == "peru"
+```
+
+Does turmeric have a taste?
