@@ -7,3 +7,5 @@ editor: visual
 ## Logic Practice in R
 
 Almost done with EDS 212!
+
+Are you from Peru?
