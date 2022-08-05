@@ -1,0 +1,44 @@
+---
+title: "Ale Logicals"
+author: "Alessandra Vidal Meza"
+format: html
+editor: visual
+---
+
+## A few logical expressions
+
+Hi there! This is my work
+
+```{r}
+# Is 5 equal to 1?
+5  == 1
+```
+
+```{r}
+# Does cat match dog?
+"cat" == "dog"
+```
+
+Some vectorized questions...
+
+```{r}
+meds <- c(1, 2, 3, 4, 5)
+
+# Is meds equal to 3?
+meds == 3
+
+# Is meds equal to 1 or greater than 3
+meds == 1 | meds > 3
+```
+
+More questions...
+
+```{r}
+# nceas' dogs age
+teddy <- 5
+banjo <- 7
+tallie <- 4
+
+# Is Teddy less than or equal to Banjo (in age)?
+teddy <= banjo
+```
